@@ -5,4 +5,3 @@ This is a shopping cart that show users items product and others users can also 
 ## Langauges/Framework Used
 
 Used React for better and easier components used tailwindcss for styling and javascript for functionality.
-If you are developing a production application, we recommend using TypeScript with 
